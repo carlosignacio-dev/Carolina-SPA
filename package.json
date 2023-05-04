@@ -24,5 +24,13 @@
   "browserslist": [
     "last 1 version",
     "> 1%"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosignacio-dev/Carolina-SPA.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carlosignacio-dev/Carolina-SPA/issues"
+  },
+  "homepage": "https://github.com/carlosignacio-dev/Carolina-SPA#readme"
 }
